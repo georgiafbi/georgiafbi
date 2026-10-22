@@ -20,6 +20,7 @@ I build and tune the control logic that keeps gas turbines starting, running, an
 ### 🎓 Background
 - M.S. Robotics & Autonomous Systems — Johns Hopkins (enrolled)
 - B.S. Mechatronics, Physics minor — Kennesaw State University
+- Certificate, Data Science & Analytics — Georgia Tech Boot Camp
 - Graduate Certificate, AI Engineering Fundamentals — Carnegie Mellon
 - Previously at GE Vernova, FieldCore, and Vericor Power Systems
 
