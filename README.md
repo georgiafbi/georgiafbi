@@ -24,4 +24,4 @@ I build and tune the control logic that keeps gas turbines starting, running, an
 - Previously at GE Vernova, FieldCore, and Vericor Power Systems
 
 ### 📫 Let's connect
-Always happy to talk controls, robotics, and AI-driven control — find me on LinkedIn.
+Always happy to talk controls, robotics, and AI-driven control — find me on [LinkedIn](https://www.linkedin.com/in/dbengineer84).
